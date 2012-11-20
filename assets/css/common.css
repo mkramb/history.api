@@ -1,0 +1,20 @@
+body {
+	font-size: 18px;	
+}
+h1 {
+	padding-left: 20px;
+	font-size: 24px;
+}
+#navigation {
+	padding: 20px;
+
+}
+#navigation a {
+	color: #000;
+	padding-right: 10px;
+	font-weight: bold;
+}
+#navigation a.active {
+	text-decoration: none;
+	color: maroon;
+}
