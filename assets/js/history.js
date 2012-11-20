@@ -38,5 +38,5 @@ if (window.history && window.history.pushState) {
 			var data = event.state;
 			if (data) processUrl(data);
 		});
-	}
+	});
 }
